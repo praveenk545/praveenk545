@@ -1,5 +1,5 @@
 # Hi there, I'm praveenkumar 👋
-
+![Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+Profile)
 Welcome to my GitHub profile! I'm a software developer with a passion for open-source projects. Here are some things I'm working on:
 
 - 🌱 Learning new technologies
