@@ -9,4 +9,5 @@ Welcome to my GitHub profile! I'm a software developer with a passion for open-s
 - Angular
 - Nestjs
 - Postgresqls
+- ## 🌟 Most Used Languages
 - - ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praveenk545&layout=compact&theme=radical)
