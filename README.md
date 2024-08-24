@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a software developer with a passion for open-s
 - 💬 Ask me about Typescript, JavaScript, or software development in general
 - 📫 How to reach me: [kumarp71149@gmail.com](mailto:kumarp71149@gmail.com)
 ## 🛠 Skills
-- languages: Typescript, Javascript, Java, (HTML,CSS)
+- #languages: Typescript, Javascript, Java, (HTML,CSS)
 - Frameworks: Angular, Nestjs, Nodejs. Database: Postgresql
 - Tools: Git, VS Code
  ## 🌟 Most Used Languages
