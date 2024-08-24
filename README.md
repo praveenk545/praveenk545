@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a software developer with a passion for open-s
 
 **Languages:** Typescript, Javascript, Java, (HTML, CSS)
 
-**Frameworks:** Angular, NestJS, Node.js
+**Frameworks:** Angular, NestJS, Node.js, Bootstrap
 
 **Database:** PostgreSQL
 
