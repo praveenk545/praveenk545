@@ -26,3 +26,8 @@ I'm a full-stack developer with hands-on experience in modern web technologies. 
 
  ## 🌟 Most Used Languages
    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praveenk545&layout=compact&theme=radical)
+
+
+I’m always open to collaborating on projects and discussing new opportunities. Let’s connect!
+
+Thanks for visiting my profile. If you have any questions or would like to collaborate, feel free to reach out!
