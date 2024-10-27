@@ -17,12 +17,16 @@ I'm a full-stack developer with hands-on experience in modern web technologies. 
 
 - **Exploring:** Machine Learning with Python
 - **Improving:** Advanced TypeScript and Angular
-- **Learning:** Cloud services (AWS, Google Cloud)
+- **Learning:**  Advanced TypeScript and Angular: Gaining expertise in TypeScript and Angular to develop high-performance web
+applications through focused, advanced projects.
+* • End-to-End TypeScript Proficiency: Applied TypeScript throughout Angular and NestJS to enhance code consistency,
+maintainability, and application performance.
+• Database Optimization:Advanced PostgreSQL Techniques for Enhanced Performance and Scalability.
+* • Enhanced problem-solving skills: Improved efficiency in coding and debugging through extensive practice.
 ## 🌐 Future Goals
 
 - **Contribute to Open Source:** I am eager to contribute to open-source projects as I continue to enhance my skills. My goal is to start participating in and contributing to open-source communities and projects in the near future.
 - **Deepen Cloud and DevOps Knowledge:** Develop a more profound understanding of cloud computing and DevOps practices.
-- **Build and Launch Personal Projects:** Bring a personal project from concept to completion.
 
  ## 🌟 Most Used Languages
    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praveenk545&layout=compact&theme=radical)
