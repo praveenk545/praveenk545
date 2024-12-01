@@ -15,7 +15,6 @@ I'm a full-stack developer with hands-on experience in modern web technologies. 
 **Tools:** Git, VS Code
 ### 📈 Current Learning
 
-- **Exploring:** Machine Learning with Python
 - **Improving:** Advanced TypeScript and Angular
 - **Learning:**  Advanced TypeScript and Angular: Gaining expertise in TypeScript and Angular to develop high-performance web
 applications through focused, advanced projects.
